@@ -3,7 +3,7 @@ export const profile = {
   email: 'edzer40514@gmail.com',
   github: 'https://github.com/godwinedzer',
   linkedin: 'https://www.linkedin.com/in/godwin-edzer-e',
-  resumeUrl: '/resume/Godwin_Edzer_E_Resume.pdf',
+  resumeUrl: '/resume/Godwin_Edzer_E_Resume_FS.pdf',
 }
 
 export type Project = {
